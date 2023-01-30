@@ -1,6 +1,6 @@
-# LipCord
-### Beginner in Python
->*Learn and create only* **Discord Bots** *with* **PyCord**
+# 🤖 𝑳 𝒊 𝒑 𝑪 𝒐 𝒓 𝒅
+### 🔰 Ᏼꭼꮐꮖ🇳🇳ꭼꭱ ꮖ🇳 Ꮲꭹꭲꮋꮻ🇳
+>*📙 Learn and create only* **Discord Bots** *with* **PyCord**
 
 ![](https://github-readme-stats.vercel.app/api?username=einlip&show_icons=true&theme=radical)\
 ![Discord](https://dcbadge.vercel.app/api/shield/421354821178884097?theme=discord-inverted)
